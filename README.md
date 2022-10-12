@@ -1,8 +1,8 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> Nice to see you.</h2>
 
 - 👋 Hi, I’m @it255ru
-- 👀 I’m interested in DevSecOps, cloud storage, deal room
-- 🌱 I’m always learning linux and python  
+- 👀 I’m interested in SRE, cloud storage, deal room
+- 🌱 I’m always learning linux, python and devops  
 - 📫 How to reach me - send me [email](anton@it255.ru) or message in telegram [@it255](it255)
 
 <!---
