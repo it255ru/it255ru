@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @it255ru
 - 👀 I’m interested in SRE, cloud storage, deal room
-- 🌱 I’m always learning linux, python and devops  
-- 📫 How to reach me - send me [email](anton@it255.ru) or message in telegram [@it255](it255)
+- 🌱 I’m always learning linux, python and devops
+- 📫 How to reach me - send me message in telegram @it255
 
 <!---
 it255ru/it255ru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
